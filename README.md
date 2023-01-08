@@ -1,0 +1,13 @@
+# What is this?
+
+This is my private bookmark collection of interesting webdev topics. 
+
+## Table of Contents
+
+  * [2023](#2023)
+
+## 2023
+
+### Week 1
+
+- [The PHP Lands](https://lands.php.earth/)
